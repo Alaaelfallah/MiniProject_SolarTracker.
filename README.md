@@ -80,5 +80,5 @@ Control and Automation Engineering Student
 
 ---
 
-## 📜 License
+##  License
 This project is for educational purposes.
